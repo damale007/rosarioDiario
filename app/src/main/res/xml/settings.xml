@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <SwitchPreference
+            android:key="meditados"
+            android:title="Misterios meditados"
+            android:icon="@drawable/ic_action_meditados"
+            android:summary="Cada misterio mostrará la meditaciónd de los mismos"
+            android:selectAllOnFocus="true"
+            android:defaultValue="false"
+            android:singleLine="true" />
+
+        <SwitchPreference
+            android:key="notificaciones"
+            android:title="Notificaciones diarias"
+            android:icon="@drawable/ic_action_meditados"
+            android:summary="Recibe una notificación diaria recordando rezo del rosario"
+            android:selectAllOnFocus="true"
+            android:defaultValue="true"
+            android:singleLine="true" />
+
+        <Preference
+            android:key="version"
+            android:icon="@drawable/ic_action_version"
+            android:title="Versión"
+            android:summary="1.1" />
+
+</PreferenceScreen>

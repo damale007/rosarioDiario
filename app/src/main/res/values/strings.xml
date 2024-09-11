@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RosarioDiario</string>
+
+    <string name="botonIniciar">Iniciar</string>
+    <string name="botonSiguiente">Siguiente Misterio</string>
+
+    <string name="inicio">Parte inicial</string>
+
+    <string name="titulo">Santo Rosario</string>
+    <string name="aveMaria">Ave María</string>
+    <string name="numAaveMaria">0</string>
+    <string name="botonAveMaria">Ave María >></string>
+    <string name="botonMisterio">Siguiente Misterio</string>
+</resources>
