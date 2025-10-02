@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/Misterios"
+        android:layout_width="0dp"
+        android:layout_height="90dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:layout_width="0px"
+            android:layout_height="0px"
+            android:src="@drawable/cielo"
+            android:scaleType="fitXY"
+            ads:layout_constraintTop_toTopOf="parent"
+            ads:layout_constraintBottom_toBottomOf="parent"
+            ads:layout_constraintStart_toStartOf="parent"
+            ads:layout_constraintEnd_toEndOf="parent" />
+        <ImageView
+            android:id="@+id/settings"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginBottom="13dp"
+            android:layout_marginEnd="20dp"
+            android:src="@drawable/ic_action_settings"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent" />
+
+        <ImageView
+            android:id="@+id/leeme"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginBottom="13dp"
+            android:layout_marginEnd="20dp"
+            android:src="@drawable/ic_action_leer"
+            ads:layout_constraintEnd_toStartOf="@id/settings"
+            ads:layout_constraintBottom_toBottomOf="parent" />
+
+        <TextView
+            android:id="@+id/misterioNumero"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="12dp"
+            android:text="@string/inicio"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.core.widget.NestedScrollView
+        android:id="@+id/scrollRosario"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="90dp" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="20dp"
+                android:paddingTop="50dp"
+                android:text="@string/titulo"
+                android:textSize="45sp" />
+
+            <TextView
+                android:id="@+id/tipoMisterios"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="20dp"
+                android:textSize="17sp"
+                android:textStyle="italic"
+                tools:text="Santo Rosario" />
+
+            <ImageView
+                android:id="@+id/idImagen"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:layout_marginTop="35dp"
+                android:layout_gravity="center" />
+
+            <TextView
+                android:id="@+id/idTituloRosario"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:paddingHorizontal="20dp"
+                android:textSize="32sp"
+                tools:text="Texto de ejemplo" />
+
+            <TextView
+                android:id="@+id/idTituloRosario2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:paddingStart="20dp"
+                android:paddingEnd="20dp"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                tools:text="Texto de ejemplo" />
+
+            <com.google.android.gms.ads.AdView
+                android:id="@+id/adView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginVertical="30dp"
+                ads:adSize="SMART_BANNER"
+                ads:adUnitId="ca-app-pub-8408332664043957/5289519264" />
+
+            <com.google.android.material.card.MaterialCardView
+                android:id="@+id/cajaMeditados"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="15dp"
+                style="@style/cardview">
+
+                <TextView
+                    android:id="@+id/idMeditacion"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="20dp"
+                    android:textSize="20sp"
+                    android:textStyle="italic"
+                    android:theme="@style/texto"
+                    tools:text="Texto de ejemplo" />
+            </com.google.android.material.card.MaterialCardView>
+
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="25dp"
+                style="@style/cardview">
+
+            <TextView
+                android:id="@+id/idContenidoRosario"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:padding="20dp"
+                android:textSize="20sp"
+                android:theme="@style/texto"
+                tools:text="Texto de ejemplo" />
+
+            </com.google.android.material.card.MaterialCardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="25dp"
+                android:backgroundTint="#AAAAFF"
+                app:cardCornerRadius="20dp">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:id="@+id/contadorAveMarias"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <ImageView
+                        android:layout_width="0px"
+                        android:layout_height="0px"
+                        android:src="@drawable/cielo"
+                        android:scaleType="fitXY"
+                        ads:layout_constraintTop_toTopOf="parent"
+                        ads:layout_constraintStart_toStartOf="parent"
+                        ads:layout_constraintEnd_toEndOf="parent"
+                        ads:layout_constraintBottom_toBottomOf="parent" />
+
+                    <ImageView
+                        android:id="@+id/logoVirgen"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+                        android:layout_marginStart="20dp"
+                        android:layout_marginTop="30dp"
+                        android:src="@drawable/virgen"
+                        ads:layout_constraintTop_toTopOf="parent"
+                        ads:layout_constraintStart_toStartOf="parent"/>
+
+                    <TextView
+                        android:id="@+id/tituloAveMarias"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingTop="20dp"
+                        android:text="@string/contador"
+                        android:textColor="@color/white"
+                        android:textSize="19sp"
+                        android:textStyle="bold"
+                        ads:layout_constraintTop_toTopOf="parent"
+                        ads:layout_constraintStart_toEndOf="@id/logoVirgen"
+                        ads:layout_constraintEnd_toEndOf="parent"/>
+
+                    <TextView
+                        android:id="@+id/oracionAM"
+                        android:layout_width="0px"
+                        android:layout_height="wrap_content"
+                        android:padding="20dp"
+                        android:text="@string/aveMaria"
+                        android:textColor="#FFF"
+                        android:textSize="16sp"
+                        ads:layout_constraintEnd_toEndOf="parent "
+                        ads:layout_constraintStart_toStartOf="parent"
+                        ads:layout_constraintTop_toBottomOf="@id/logoVirgen" />
+
+                    <TextView
+                        android:id="@+id/avemaria"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="20dp"
+                        android:textSize="23sp"
+                        android:layout_marginTop="10dp"
+                        android:text="@string/tituloAveMaria"
+                        android:textColor="@color/white"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@id/oracionAM" />
+
+                    <TextView
+                        android:id="@+id/numeroAveMaria"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/numAaveMaria"
+                        android:textColor="@color/white"
+                        android:textSize="45sp"
+                        android:layout_marginTop="10dp"
+                        app:layout_constraintStart_toEndOf="@id/avemaria"
+                        app:layout_constraintTop_toBottomOf="@id/oracionAM" />
+
+                    <com.google.android.material.floatingactionbutton.FloatingActionButton
+                        android:id="@+id/botonSiguienteAveMaria"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="20dp"
+                        android:textColor="#FFF"
+                        android:src="@drawable/ic_siguiente"
+                        app:cornerRadius="20dp"
+                        android:paddingHorizontal="25dp"
+                        android:paddingVertical="5dp"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"  />
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </androidx.cardview.widget.CardView>
+
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="25dp"
+                style="@style/cardview">
+                <TextView
+                    android:id="@+id/idContenidoRosario2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="20dp"
+                    android:textSize="20sp"
+                    android:theme="@style/texto"
+                    tools:text="Texto de ejemplo" />
+            </com.google.android.material.card.MaterialCardView>
+
+            <Button
+                android:id="@+id/botonSiguienteMisterio"
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:layout_gravity="center"
+                android:layout_margin="30dp"
+                android:paddingHorizontal="30dp"
+                android:paddingVertical="9dp"
+                app:cornerRadius="20dp"
+                android:text="@string/botonSiguiente"
+                android:textColor="#FFF"
+                app:backgroundTint="#3C3C6B" />
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

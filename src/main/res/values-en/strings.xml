@@ -1,0 +1,255 @@
+<resources>
+    <string name="app_name">DiaryRosary</string>
+
+    <string name="botonIniciar">Exit</string>
+    <string name="botonSiguiente">Next Mystery</string>
+
+    <string name="inicio">Home</string>
+
+    <string name="titulo">Holy Rosary</string>
+    <string name="tituloAveMaria">Hail Mary</string>
+    <string name="numAaveMaria">0</string>
+    <string name="botonAveMaria">Hail Mary >></string>
+    <string name="contador">Hail Mary counter</string>
+
+    <!-- Otras Apps -->
+    <string name="titulo_otras_apps">Other Apps from Author</string>
+
+    <string name="permisos">You will need to manually enable the notification permission if you want to receive them on your mobile.</string>
+    <string name="rechazaPermisos">By rejecting this permission, you will not be able to receive reminders for praying the rosary.</string>
+
+    <string-array name="misterios">
+        <item>Home</item>
+        <item>First Mystery</item>
+        <item>Second Mystery</item>
+        <item>Third Mystery</item>
+        <item>Fourth Mystery</item>
+        <item>Fiveth Mystery</item>
+        <item>Litany</item>
+    </string-array>
+
+    <string name="misteriosHoy">The mysteries of today are the</string>
+
+    <string name="misterioGlorioso">glorious</string>
+    <string name="misterioGozoso">joyful</string>
+    <string name="misterioDoloroso">sorrowful</string>
+    <string name="misterioLuminoso">luminous</string>
+    <string name="tituloLetanias">Litany of the blessed Virgin Mary.</string>
+
+    <string-array name="letanias">
+        <item>Lord, have mercy on us</item>
+        <item>Christ, have mercy of us</item>
+        <item>Lord, have mercy on us</item>
+        <item>Christ, hear us..</item>
+        <item>Christ, graciously hear us..</item>
+        <item>God the Father of heaven..</item>
+        <item>God the Son, Redeemer of the world..</item>
+        <item>God, the Holy Spirit..</item>
+        <item>Holy Trinity, One God..</item>
+        <item>Holy Mary,</item>
+        <item>Holy Mather of God..</item>
+        <item>Holy Virgin of virgin..</item>
+        <item>Mother of Christ..</item>
+        <item>Mother of divine grace..</item>
+        <item>Mother most pure..</item>
+        <item>Mother most chastle..</item>
+        <item>Mother inviolate..</item>
+        <item>Mother virgin..</item>
+        <item>Mother inmaculate..</item>
+        <item>Mother amiable..</item>
+        <item>Mother of good counsel..</item>
+        <item>Mother of our Creator..</item>
+        <item>Mother of our savior..</item>
+        <item>Mother of the church..</item>
+        <item>Virgin most prudent..</item>
+        <item>Virgin most venerable..</item>
+        <item>Virgid most renowned..</item>
+        <item>Virgin powerful..</item>
+        <item>Virgin mercyful..</item>
+        <item>Virgis most faithful..</item>
+        <item>Mirror of justice..</item>
+        <item>Ideal of sanctity..</item>
+        <item>Seat of wisdom..</item>
+        <item>Cause of our joy..</item>
+        <item>Spiritual vessel..</item>
+        <item>Vessel of honnor..</item>
+        <item>Singular vessel of devotion..</item>
+        <item>Mystical rose..</item>
+        <item>Tower of David..</item>
+        <item>Tower of ivory..</item>
+        <item>House of gold..</item>
+        <item>Ark of the covenant..</item>
+        <item>Gate of heaven..</item>
+        <item>Morning star..</item>
+        <item>Health of sick..</item>
+        <item>Refuge of sinner..</item>
+        <item>Conforter of the afflicted..</item>
+        <item>Help of Christians..</item>
+        <item>Queen of angels..</item>
+        <item>Queen of patriarchs..</item>
+        <item>Queen of Prophets..</item>
+        <item>Queen of Apostles..</item>
+        <item>Queen of Martyrs.</item>
+        <item>Queen of confessors..</item>
+        <item>Queen of virgins..</item>
+        <item>Queen of all saints..</item>
+        <item>Queen conveived without original sin..</item>
+        <item>Queen assumed into heaven..</item>
+        <item>Queen of the most holy rosary..</item>
+        <item>Queen of the family</item>
+        <item>Queen of peace.. </item>
+        <item>Lamb of God who takes away sins from the world…</item>
+        <item>Lamb of God who takes away sins from the world…</item>
+        <item>Lamb of God who takes away sins from the world…</item>
+        <item>Under your protection, we take refuge, Holy Mother of God; do not despise the petitions we present in our needs, but deliver us always from all dangers, O glorious and blessed Virgin.</item>
+        <item>Pray for us, o holy Mother of us.</item>
+        <item>That we may be made worthy of the promises of Christ.</item>
+    </string-array>
+
+    <string-array name="respuestaLetanias">
+        <item>R/ Lord, have mercy on us.</item>
+        <item>R/ Christ, have mercy on us.</item>
+        <item>R/ Lord, have mercy on us.</item>
+        <item>R/ Christ, hear us.</item>
+        <item>Christ, graciously hear us.</item>
+        <item>R/ have mercy on us.</item>
+        <item>R/ have mercy on us.</item>
+        <item>R/ have mercy on us.</item>
+        <item>R/ have mercy on us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ pray for us.</item>
+        <item>R/ Spare us, O Lord.</item>
+        <item>R/ Graciously hear us O Lord.</item>
+        <item>R/ Have mercy on us.</item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+
+
+    <string name="inicioRosario">In the name of the Father of the Son and of the Holy Spirit. Amen.\nI believe in God, the Father Almighty, Creator of heaven and earth; and in Jesus Christ, His only Son, our Lord; who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died, and was buried. He descended into hell. On the third day, He rose again; He ascended into heaven and sits at the right hand of God, the Father Almighty. From there, He will come to judge the living and the dead. I believe in the Holy Spirit, the Holy Catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting. Amen.</string>
+    <string name="jesusMio">Glory by\nO my Jesus, forgive us our sins, save us from the fires of hell, lead all souls to Heaven, especially those in most need of Thy mercy.</string>
+
+    <string name="oracionFinal">O God, whose only-begotten Son, by His life, death and resurrection, has purchased for us the rewards of everlasting life; grant, we beseech you, that, we , who meditate on these mysteries of the most holy Rosary of the Blessed Virgin Mary, may imitate what they contain, and obtain what they promise. Through Christ our Lord. Amen.</string>
+    <string name="intenciones">For the intentions of the Pope and the needs of the Church and of the nation: Our Father. Hail Mary. Glory Be. For the bishop of this diocese and his intentions: Our Father. Hail Mary. Glory Be. For the holy souls in purgatory: Our Father. Hail Mary. Glory Be.</string>
+
+    <string name="gloria">Glory be</string>
+    <string name="gloria1">Glory be to the Father, and to the Son, and to the Holy Spirit.</string>
+    <string name="gloria2">As it was in the beginning, is now, and ever shall be, world without end. Amen.</string>
+
+    <string name="tituloPadreNuestro">Our Father</string>
+    <string name="padreNuestro">Our Father, who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us. And lead not into temptation, but deliver us from evil. Amen.</string>
+    <string name="padreNuestro1">Our Father, who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth as it is in heaven.</string>
+    <string name="padreNuestro2">Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us. And lead not into temptation, but deliver us from evil. Amen.</string>
+
+    <string name="aveMaria">Hail, Mary, full of grace, the Lord is with thee: blessed art thou among women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now, and at the hour of our death. Amen.</string>
+    <string name="aveMaria1">Hail, Mary, full of grace, the Lord is with thee: blessed art thou among women, and blessed is the fruit of thy womb, Jesus.</string>
+    <string name="aveMaria2">Holy Mary, Mother of God, pray for us sinners, now, and at the hour of our death. Amen.</string>
+
+    <string name="glorioso1">The Resurrection.</string>
+    <string name="glorioso2">La Ascension.</string>
+    <string name="glorioso3">The Descent of the Holy Spirit.</string>
+    <string name="glorioso4">The Assumption.</string>
+    <string name="glorioso5">The Coronation of Mary.</string>
+
+    <string name="gozoso1">Tha Anunciation</string>
+    <string name="gozoso2">The visitation</string>
+    <string name="gozoso3">The Nativity of Our Lord</string>
+    <string name="gozoso4">The Presentation in the Temple</string>
+    <string name="gozoso5">The Finding in the Temple</string>
+
+    <string name="doloroso1">The Agony in the Garden</string>
+    <string name="doloroso2">The Scourging at the Pillar</string>
+    <string name="doloroso3">The Crowning with Thorns</string>
+    <string name="doloroso4">The Carrying of the Cross</string>
+    <string name="doloroso5">The Crucifixion and Death</string>
+
+    <string name="luminoso1">The Baptism of Christ in the Jordan</string>
+    <string name="luminoso2">The Wedding Feast at Cana</string>
+    <string name="luminoso3">Jesus Proclamation of the Coming of the Kingdom of God</string>
+    <string name="luminoso4">The Transfiguration</string>
+    <string name="luminoso5">The Institution of the Eucharist</string>
+
+    <string name="meditacionLuminoso1">Baptized, Jesus came up out of the water; and at that moment, the heavens opened, and he saw the Spirit of God descending like a dove and coming upon him. And a voice from heaven said, "This is my beloved Son, in whom I am well pleased. (Mt 3:16–17)\nWe could imagine Jesus bidding farewell to his Mother to begin the mission entrusted to him, which would last approximately three years. He arrives at the Jordan River, knowing that John the Baptist would be there preparing the way for him. John urged people to confess their sins and baptized them with water to call them to repentance and conversion. Jesus joins those waiting their turn to be baptized and publicly requests to be baptized. Upon seeing him, John exclaims in amazement, I am the one who needs to be baptized by you! recognizing Jesus as our Savior in front of everyone—he who comes to baptize us with the Holy Spirit to free us from original sin and make us beloved children of God the Father. But Jesus invites him to join in fulfilling God’s will.\n\nReflection\nJesus shows us his humility because, even as the Son of God, he allows himself to be baptized before everyone. Through this act, he helps us understand the significance that the Sacrament of Baptism must have in our lives. John the Baptist bears witness to having seen the Spirit of God, in the form of a dove, rest upon Jesus and to hearing the voice of a pleased Father.\nIn this Gospel, we are taught that by uniting ourselves with Jesus, we unite with the Father through the Holy Spirit—an inexplicable mystery of faith.\nDivine Union, Holy Union, Mysterious Union that blesses us in the Father, the Son, and the Holy Spirit, help us to imitate Christ’s humility, to grow as true children of God, to obey his commandments, and to unite with Him so that God's will may always be fulfilled.</string>
+    <string name="meditacionLuminoso2">Three days later, a wedding took place in Cana of Galilee, and the mother of Jesus was there. Jesus and his disciples had also been invited to the wedding. When the wine ran out, because the wedding had no more wine, Jesus\' mother said to him, They have no wine. Jesus replied, Woman, what does this have to do with me? My hour has not yet come. His mother said to the servants, Do whatever he tells you. (Jn 2:1–5)\nWe can imagine Jesus, Mary, and Jesus\' disciples among many family members and close friends, enjoying a wedding blessed by Jesus\' presence. In this Gospel, the Lord shows us his delight in the holy union of a man and a woman because, at this wedding, he institutes the Sacrament of Matrimony by performing his first miracle.\n\nReflection\nThe Gospel clearly tells us that the mother of Jesus was there. Yes, the mother of Jesus is always there, wherever Jesus is. She is attentive to the needs of others and cares for the well-being of her children. Our Virgin Mary stands by Jesus to say, They have no wine they have no health, no work, no life, no hope, no faith. Yes, our Mother is there, collaborating in Jesus\' work, and with her humble words, she simply asks us, Do whatever he tells you. She clearly says: trust, do not lose hope, surrender to him, and listen to him!\nHoly Mother of God, sweet Virgin Mary, we know that you always watch over our needs and are quick to intercede for our shortcomings. And You, Lord, show us in this Gospel the immense love you have for your Mother and how you are moved by her requests. Just like You, Lord, we want to love Mary and please her as You do because all she wants is for us to do whatever You tell us.</string>
+    <string name="meditacionLuminoso3">The time is fulfilled, and the Kingdom of God is at hand; repent and believe in the Gospel. (Mk 1:15)\nIn this Gospel, Jesus invites us to conversion. To convert means to leave everything behind to follow Jesus. To convert means to act for Christ and in Christ. To convert means to discover and be grateful for the virtues of faith, hope, and charity. To convert means to cross the boundaries of our selfishness and see Jesus in our brothers and sisters. Conversion requires surrendering to the will of God and being thankful even in adversities, illnesses, humiliations, and false accusations, recognizing that by accepting these, we show the Lord how immense our love is. We love what He has ordained for us and for our salvation.\n\nReflection\nTo convert is to love sincerely. Conversion means placing God at the center of our lives and loving Him with all our strength. To convert, we must entrust our entire being—body and soul—to God.\nConversion often means knowing when to stay silent to listen and when to speak to provide comfort. To convert is to put the Lord first always, to let go of our interests and comforts. To convert is to be obedient, stepping aside so that the Lord takes center stage. To convert is to speak with God first and then speak of Him with our brothers and sisters. To convert is to fearlessly bear witness to how much Jesus loves us and how He has transformed our lives.\nTo convert is to give and serve others. It is to find time where there seems to be none and to enjoy spending it in service to the one true God. Conversion is to be employed as a laborer for the Lord, to declare oneself a pawn, a servant, the least useful of all. To convert is to feel like nothing, to empty oneself of self, and to be filled with God. To convert is to acknowledge that our conversion and the conversions of our brothers and sisters are solely the work of God.\nLord, transform our souls into Yours, so that we may preach Your Word with humility, becoming only useless instruments in the building of Your Kingdom.</string>
+    <string name="meditacionLuminoso4">Six days later, Jesus took Peter, James, and his brother John and led them up a high mountain by themselves. There he was transfigured before them: his face shone like the sun, and his clothes became as white as the light. (Mt 17:1–2)\nJesus chose three of his disciples: Peter, James, and John. Peter, who would deny him three times—a sinner repented and forgiven by Christ—was entrusted with the keys of the Church. Peter, who would go to Rome to testify to the love and teachings of Jesus.\n\nReflection\nJames, who traveled to Spain, became the first martyr among the disciples. According to tradition, the Virgin Mary appeared to him during his life, encouraging him to build a church for her Son. Before his death, James returned to Jerusalem to bid farewell to Mary and the Apostle John. There, the Virgin prophesied his martyrdom.\nThe Apostle John, the beloved disciple of Jesus, was the only one who remained at the foot of the Cross and, by Jesus’ command, took Mary into his home to care for her. These three apostles witnessed Jesus’ Transfiguration; they were witnesses to the divine glory of the Lord and were graced with a vision of Heaven. Their joy was so immense that they wished to remain there.\nIn this Gospel, Jesus teaches us that there is a far better place than this world we live in—a place where suffering often confuses us, discord fills us with despair, and our weak hearts, plagued by envy and selfishness, succumb to temptation. Tribulations and the noise of the world disturb our senses. Often, material needs empty our spirit and harden our hearts.\nLike the apostles, Jesus desires that we withdraw to find the Father in silence, just as he did. He invites us to value prayer and live out the commandment he left us: **“Love one another as I have loved you.”** Why? So that when we stand face to face with the Father, we can tell Him how much we have loved our brothers and sisters.\nLord, the noise of this world ensnares us and pulls us away from You. We long to seek You in silence and find You there. We know the path to Heaven is built daily through our actions. We ask that You help us transfigure our feelings into Yours so that we may love our brothers and sisters as You love us.</string>
+    <string name="meditacionLuminoso5">While they were eating, Jesus took bread, blessed it, broke it, and gave it to his disciples, saying, "Take, eat; this is my body." (Mt 26:26)\nWe can imagine the disciples gathered around Jesus, hearing words they perhaps did not fully understand. For them—and for any of us—it would be difficult to grasp how a piece of bread and a portion of wine could become the Body and Blood of Christ. Such understanding requires a special grace that comes only from God and is received by those with humble hearts who “believe without seeing,” as Jesus told Saint Thomas at the moment of the Resurrection.\n\nReflection\nThe Luminous Mysteries illuminate a journey that begins with our baptism. From there, they guide us to understand Jesus’ love for his Mother, revealing Mary’s power of intercession as our advocate. Later, Jesus invites us to conversion, to believe in the Gospel, and to carry it to places where priests cannot reach. For this, Jesus asks us to have humble hearts, spirits transfigured in His, and calls us to imitate Him in prayer.\nThe apostles depict Jesus in His divine glory, describing a place more beautiful than this world and encouraging us to understand that suffering carries the hope of our salvation. In this final mystery, Jesus reveals that He remains with us in the Eucharistic Bread and invites us: **"Eat and drink, for this is my Body."** He says clearly, **"Whoever eats my flesh and drinks my blood has eternal life, and I will raise them up on the last day.\nIn this Gospel, Jesus also institutes the Sacrament of Holy Orders, instructing His apostles: **"Do this in memory of me."** He calls them to repeat what He did at the Last Supper. The apostles of Jesus have faithfully obeyed this command, as their successors have left everything to follow Him—these are our holy priests.\nLet us ask the Lord to grant us the virtue of faith, so we may firmly believe in the Holy Eucharist, dedicate time to accompany Jesus in the Tabernacle—the source of grace that nourishes and strengthens our spirits—and attend the celebration of the Holy Eucharist, the Holy Mass. Through our good deeds, may we daily build the path of our salvation, so we may be worthy to enter His Kingdom and live with Him for all eternity.\nWe pray to the Lord for holiness for our priests, strength for all seminarians and religious in moments of discernment, and an abundance of vocations worldwide to support Jesus in the mission of His Church.</string>
+
+    <string name="meditacionGlorioso1">On the first day of the week, very early in the morning, they went to the tomb, bringing the spices they had prepared. But they found the stone rolled away from the tomb, and when they entered, they did not find the body of the Lord Jesus. They were wondering about this when suddenly two men in shining garments stood beside them. The women, terrified, bowed down their faces to the ground, but the men said to them, Why do you look for the living among the dead? He is not here; he has risen. (Luke 24:1–6)\n\nReflection\nIn the light of this mystery, our faith contemplates as living and forever united with the risen Christ, the souls of those we loved most, whose companionship we enjoyed and whose sorrows we shared. How deeply the memory of our loved ones is stirred in our hearts by the warmth of the resurrection mystery! Remembered and blessed by the suffrage of the sacrifice of the crucified and risen Lord, they continue to share in the best part of our lives: prayer and Jesus Christ.\n\nIntention\nIt is no coincidence that the Eastern liturgy ends the funeral rites with an alleluia for all the departed. Let us ask for them the light of the eternal dwelling places, while our thoughts linger on the resurrection that awaits our own mortal remains: "I look forward to the resurrection of the dead." To know how to wait. To trust always in the most tender promise, guaranteed by Christ’s resurrection, is truly a foretaste of heaven.</string>
+    <string name="meditacionGlorioso2">The Lord Jesus, after speaking to them, ascended into heaven and sat at the right hand of God." (Mark 16:19)\n\nReflection\nThis moment in the Rosary teaches and exhorts us not to be ensnared by what weighs us down and hinders us, but rather to surrender ourselves to the Lord’s will, which calls us upward. At the moment of returning to the Father, ascending to heaven, the Lord’s arms open in blessing over the first apostles and extend to all who, following in His footsteps, continue to believe in Him. This moment is a gentle and serene assurance for their souls of the ultimate reunion with Him and all the redeemed in eternal happiness.\n\nIntention\nAbove all, this mystery presents itself as light and guidance for souls who care about their own vocation. At the heart of this mystery lies the movement of spiritual life, the ardent desire for continual self-improvement that burns in the hearts of priests who are unattached to earthly things, concerned solely with opening, and helping others open, paths that lead to perfection and holiness—to the level of grace they should attain, whether in solitude or in community: priests, religious men and women, missionaries, lay people who love God and His Church, and many souls, especially those who are like "the fragrance of Christ," in whose presence one feels close to the Lord. Indeed, they live even now in a constant communion with heavenly life.</string>
+    <string name="meditacionGlorioso3">When the day of Pentecost had come, they were all together in one place. Suddenly a sound like the blowing of a violent wind came from heaven and filled the whole house where they were sitting. They saw what seemed to be tongues of fire that separated and came to rest on each of them. All of them were filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them." (Acts 2:1–4)\n\nReflection\nThe divine virtue that the Holy Spirit pours into the souls of men is a great support for hope, a powerful strength, and the only true help for human life. This refers to the grace that sanctifies us, a grace that is indeed preceded and followed by other effective graces. Certainly, what matters greatly is that the spirit of men is renewed within, giving birth to new life.\n\nIntention\nMary, the Mother of Jesus and our ever-sweet Mother, was with the apostles in the Upper Room at Pentecost. Let us remain very close to her through the Rosary. Our prayers united with hers will renew the ancient miracle. It will be like the birth of a new day, a radiant dawn in the Catholic Church—holy and ever holier, Catholic and ever more Catholic in modern times.</string>
+    <string name="meditacionGlorioso4">All generations will call me blessed, for the Mighty One has done great things for me." (Luke 1:48–49)\n\nReflection\nIt is a source of comfort and confidence, in days of sorrow, for privileged souls—and we can all be so, as long as we are faithful to grace—that God, in silence, prepares the most beautiful triumph, the triumph of the altar.\n\nIntention\nThe mystery of the Assumption makes us familiar with the thought of death, of our own death, and is an invitation to trusting surrender. It brings us closer and makes us friends with the idea that the Lord will be present in our final moments, just as we would wish Him to be, to take our immortal soul into His hands.\nImmaculate Virgin: may we share with you in heavenly glory!</string>
+    <string name="meditacionGlorioso5">A great sign appeared in heaven: a woman clothed with the sun, with the moon under her feet and a crown of twelve stars on her head." (Revelation 12:1)\n\nReflection\nOur reflection should turn inward, to our vocation, through which one day we will be joined to the angels and saints, and whose sanctifying graces already, in this life, anticipate a mysterious and consoling reality. Oh, what delight, what glory! We are "fellow citizens with the saints and members of God\'s household, built on the foundation of the apostles and prophets, with Christ Jesus Himself as the cornerstone."\n\nIntention\nThe intention of this mystery is to pray for final perseverance and for peace on earth, which opens the doors to blessed eternity.\nO Mary, you who pray with us, you who pray for us. We know it. We feel it—oh, what a sweet reality, what sovereign glory in this heavenly and human concord of affections, words, and life that the Rosary has brought and brings to us: relief from pain, a taste of heavenly peace, the hope of eternal life.</string>
+
+    <string name="meditacionGozosos1">In the sixth month, the angel Gabriel was sent by God to a city of Galilee called Nazareth, to a virgin betrothed to a man named Joseph, of the house of David; the virgin\'s name was Mary" (Lk 1:26–27).\n\nReflection\nReflecting on this, our first unforgettable duty is to give thanks to God, for He has deigned to come and save us. For this, He became man, our brother. Like us, He was born of a woman, through whom He made us adopted children at the foot of the cross. Adopted children of His Heavenly Father, He also wanted us to be children of His own mother.\n\nIntention\nLet the intention of our prayer, as we contemplate this first mystery presented for our meditation, be, in addition to continually giving thanks, a sincere and genuine effort toward humility, purity, and charity—virtues so highly exemplified by the Blessed Virgin.</string>
+    <string name="meditacionGozosos2">In those days Mary set out and hurried to the hill country, to a town in Judah; she entered Zechariah’s house and greeted Elizabeth. And it came to pass that, when Elizabeth heard Mary’s greeting, the child leaped for joy in her womb, and Elizabeth was filled with the Holy Spirit; and she cried out in a loud voice and said: Blessed are you among women, and blessed is the fruit of your womb" (Lk 1:39–42).\n\nReflection\nWhat happens here, in Ain-Karem, in the hills of Hebron, presents with a celestial yet deeply human light the kind of relationships that unite good Christian families, those raised in the venerable tradition of the Rosary. The Rosary recited each evening at home, within the intimate circle. The Rosary prayed not just in one, or a hundred, or a thousand families, but by all and for all, in every corner of the earth—wherever anyone among us suffers, struggles, and prays, faithful to an inspiration from above. Whether it be a priestly vocation, missionary charity, pursuing an apostolic ideal, or remaining faithful to one of those motives so legitimate they become duties, such as work, commerce, military service, study, teaching, or any other occupation.\n\nIntention\nNow beautiful it is to immerse oneself during the ten Hail Marys of this mystery, alongside so many souls united by bonds of blood or domestic ties, in a relationship that sanctifies and thereby strengthens the love among loved ones: with parents and children, siblings and relatives, neighbors and fellow countrymen. All of this with the lived intention and purpose of sustaining, increasing, and making more vibrant the presence of charity for all. Its practice brings the deepest joy and represents the greatest honor of life.</string>
+    <string name="meditacionGozosos3">In those days a decree went out from Caesar Augustus that the whole world should be registered. This first census took place while Quirinius was governor of Syria. Everyone went to be registered, each to his own town.\n\nJoseph also went up from Galilee, from the town of Nazareth, to Judea, to the city of David, which is called Bethlehem, because he was of the house and lineage of David, to be registered with Mary, his betrothed, who was with child. While they were there, the time came for her to give birth, and she gave birth to her firstborn son. She wrapped him in swaddling clothes and laid him in a manger, because there was no room for them in the inn" (Lk 2:1–7).\n\nReflection\nIn this mystery, let not a single knee remain unbent before the cradle, in a gesture of adoration. Let no one fail to see the eyes of the divine Child, gazing far into the distance, as though seeking to behold, one by one, all the peoples of the earth. They pass before Him one by one, as if in a review, and He recognizes them all: Hebrews, Romans, Greeks, Chinese, Indians, the peoples of Africa, from every region of the earth and every era of history. The most distant and desolate regions, the most remote and unexplored; past ages, the present, and times yet to come.\n\nIntention\nDuring the ten Hail Marys, the Holy Father loves to entrust to the newborn Jesus the countless number of children—how many they are, an endless multitude—who have been born in the last twenty-four hours, whether by day or by night, of every race, here and there, all over the world. How many they are! All of them, baptized or not, belong by right to Jesus, the Child just born in Bethlehem. They are called to acknowledge His dominion, the greatest and sweetest that can exist in the heart of man or in the history of the world: the only dominion worthy of both God and men. A kingdom of light and peace, the kingdom we ask for in the Our Father.</string>
+    <string name="meditacionGozosos4">When the eight days were completed for his circumcision, he was named Jesus, the name given by the angel before he was conceived in the womb. When the days of their purification according to the Law of Moses were completed, they brought Jesus to Jerusalem to present him to the Lord, as it is written in the Law of the Lord: Every firstborn male shall be consecrated to the Lord, and to offer a sacrifice of a pair of turtledoves or two young pigeons, as prescribed in the Law of the Lord" (Lk 2:21–24).\n\nReflection and Intention\nIn a different way, but similar in the sense of offering, this episode is continually renewed in the Church, or rather, it is a constant reality within her. During the ten Hail Marys, it will be delightful to contemplate the fields that germinate, the harvest that rises. "Look at the fields, they are already white for harvest." I refer to the joyful hope that arises from the priesthood, from its numerous collaborators, both men and women, in the kingdom of God, though still not enough. Young seminarians, those in religious houses, mission seminaries, and even Catholic universities—why not there too, if they are Christians, also called to be apostles?\nAnd the joyful hope of so many lay apostolic initiatives, indispensable for the future. An apostolate which, despite the difficulties and trials of its expansion, offers—and will never cease to offer—a spectacle so moving that it evokes words of joy and admiration.\nLight and revelation to the nations, glory of the chosen people.</string>
+    <string name="meditacionGozosos5">His parents went to Jerusalem every year for the feast of Passover. When he was twelve years old, they went up as usual for the feast. When the feast days were over and they were returning home, the boy Jesus stayed behind in Jerusalem, but his parents did not know it…\nAfter three days, they found him in the temple, sitting among the teachers, listening to them and asking them questions. All who heard him were amazed at his understanding and his answers" (Lk 2:41–47).\n\nReflection\nThe duty of human intelligence remains the same throughout time: to gather the wisdom of the past, transmit sound doctrine, and advance scientific inquiry with firmness and humility. We die, one after another, heading toward God. Humanity, however, looks toward the future.\nChrist is never absent—neither from supernatural knowledge nor from natural understanding. He is always present, fulfilling His role. "You have but one teacher, Christ.\n\nIntention\nThis, the fifth and final decade of the joyful mysteries, let us reserve with a special intention for all those called by God—whether through natural abilities, life circumstances, or the will of their superiors—to serve the truth: in research or teaching, preserving ancient knowledge or disseminating new techniques through books or audiovisual media. All of them are called to imitate Christ: intellectuals, teachers, journalists.\nAll, especially journalists—who bear the unique daily responsibility of honoring the truth—must transmit it with religious scrupulousness, sharp discernment, and without distorting or disfiguring it with fantasies.\nYes, let us pray for all of them: pray for them, whether priests or laypeople, that they may know how to listen to the truth; for the purity of heart needed to comprehend it; and for the deep humility of mind required to defend it. For this defense inevitably calls for obedience, which was Jesus’ strength and is the strength of the saints. Only obedience brings peace—that is, victory.</string>
+
+    <string name="meditacionDoloroso1">Then Jesus went with them to a garden called Gethsemane, and he said to his disciples, Sit here while I go over there and pray. And taking with him Peter and the two sons of Zebedee, he began to feel sorrow and anguish. Then he said to them, My soul is overwhelmed with sorrow to the point of death; stay here and keep watch with me. Going a little farther, he fell with his face to the ground and prayed, My Father, if it is possible, may this cup be taken from me. Yet not as I will, but as you will." (Matthew 26:36–39)\n\nReflection\nThe scene at Gethsemane comforts and encourages us to make a voluntary effort of acceptance—the unconditional acceptance of suffering when it is God who wills or permits it: "Not my will, but yours be done." Words that both wound and heal, for they teach to what depth of fervor a Christian who suffers, united to the suffering Christ, can and should aspire. These words give us, as a final brushstroke, the certainty of ineffable merits, the merit of divine life for us—a life throbbing in us now through grace, tomorrow in glory.\n\nIntention\nIn this mystery, a particular intention appears before our eyes: "the concern for all the Churches." This concern urgently drives the Holy Father's daily prayer, like the contrary wind that blew over the Sea of Galilee. An anxious thought in the most challenging situations of his lofty pastoral ministry. Concern for the Church, which, spread across the globe, suffers united with him, and he, in turn, united with it, present in him and suffering with him. A sorrowful longing for so many souls, entire portions of Christ's flock, subjected to persecution, deprived of the freedom to believe, to think, to live. "Who is weak, and I do not feel weak?"To share in the suffering of others, to endure with those who endure, to weep with those who weep, is a blessing, a merit for the whole Church. The "communion of saints" is this shared participation, each and every one, in the Blood of Christ, the love of the saints and the good, and, also, O my God, our sins, our weaknesses. Do we think enough about this "communion," which is union, and as Jesus Christ would say, almost unity, "that they may be one"? The Lord's cross not only elevates us, but it draws souls. Always. "And I, when I am lifted up from the earth, will draw all to myself." Everything. Everyone.</string>
+    <string name="meditacionDoloroso2">Pilate released Barabbas to them; but after having Jesus scourged, he handed him over to be crucified" (Mt 27:26).\n\nReflection\nFrom this, a valuable lesson is drawn for all of us. While we may not be called to a bloody martyrdom, we are certainly called to the constant discipline and daily mortification of our passions. Through this means—a true "way of the cross" each day, inevitable and indispensable, and at times even heroic in its demands—we gradually attain a closer resemblance to Christ, participation in His merits, and cleansing through His spotless blood of all sin, both in ourselves and in others. This is not achieved through easy enthusiasm, nor through a fanaticism that may seem innocent but is never harmless.\n\nThe sorrowful Mother saw Him scourged in this way. Let us consider with what bitterness she bore it. How many mothers long to see their children succeed in perfection, guided by them into the discipline of a good upbringing and a healthy life, only to find themselves mourning the loss of so many hopes and the pain of seeing their efforts come to naught.\n\nIntention\nDuring the Hail Marys of this mystery, let us ask the Lord for the gift of purity of morals within families, in society, and especially for young hearts, who are most vulnerable to the seduction of the senses. At the same time, let us pray for the gift of strength of character and unwavering fidelity to the teachings they have received and the resolutions they have made.</string>
+    <string name="meditacionDoloroso3">Then the soldiers of the governor took Jesus into the praetorium and gathered the whole cohort around him. They stripped him and put a scarlet robe on him, and twisting together a crown of thorns, they placed it on his head and put a reed in his right hand. Kneeling before him, they mocked him, saying, \'Hail, King of the Jews!\'" (Mt 27:27–29).\n\nReflection\nThis mystery is particularly fitting for contemplation by those who bear the weight of grave responsibilities in the care of souls and the governance of society; therefore, it is the mystery of the Popes, the Bishops, the Pastors; the mystery of rulers, legislators, and magistrates. Upon their heads, too, rests a crown that, while it bears a halo of dignity and distinction, also weighs heavily and pierces, bringing thorns and trials. Wherever there is authority, the cross cannot be absent—sometimes the cross of misunderstanding, of contempt, of indifference, or of solitude.\n\nIntention\nAnother application of this mystery could be to consider the grave responsibility of those who, having received more talents, are thereby more obligated to make them bear abundant fruit through the constant exercise of their abilities and intelligence. The service of thought—that is, what is expected of those who are more gifted as a light and guide for others—must be rendered with serene patience, rejecting temptations of pride, selfishness, and detachment, which can lead to destruction.</string>
+    <string name="meditacionDoloroso4">They forced a passerby, Simon of Cyrene, who was coming in from the countryside, the father of Alexander and Rufus, to carry his cross. They brought him to the place called Golgotha, which means \'Place of the Skull\'" (Mk 15:21–22).\n\nReflection\nBy contemplating Jesus Christ as He ascends Calvary, we learn—more with the heart than the mind—to embrace and kiss the cross, to carry it with generosity and joy, in accordance with the words of *The Imitation of Christ*: *“In the cross is salvation, in the cross is life, in the cross is protection against enemies, in it is the infusion of supreme sweetness.\nAnd how can we not extend our prayer to Mary, the sorrowful Mother, who followed Jesus with a spirit of total participation in His merits and sufferings?\n\nIntention\nMay this mystery bring before our eyes the indescribable spectacle of so many afflicted souls: orphans, the elderly, the sick, the disabled, prisoners, and exiles. Let us pray for all of them, that they may find strength and consolation capable of bringing them hope. Let us repeat with tenderness and, why not, with a hidden tear Hail, O cross, our only hope. </string>
+    <string name="meditacionDoloroso5">When they came to the place called \'The Skull,\' they crucified him there, along with the criminals—one on his right and the other on his left. Jesus said, \'Father, forgive them, for they do not know what they are doing.\'… It was about noon, and darkness came over the whole land until three in the afternoon, for the sun stopped shining. And the curtain of the temple was torn in two. Jesus called out with a loud voice, \'Father, into your hands I commit my spirit.\' When he had said this, he breathed his last" (Lk 23:33–46).\n\nReflection\nLife and death represent the two precious and guiding points of Christ's sacrifice: from the smile at Bethlehem, which sought to embrace all the children of men at His first appearance on earth, to the final breath that gathers all pain to sanctify us, all sin to erase it. And Mary stands by the cross, just as she stood beside the Child in Bethlehem.\nLet us pray to this compassionate Mother, so that she may intercede for us now and at the hour of our death.\nThis scene also sheds light on the great mystery of the hardened sinners, the unbelievers, those who have not received and will not receive the light of the Gospel, who fail to realize the blood that was shed for them as well, by the Son of God.\n\nIntention\nIn contemplating this mystery, our prayer immerses itself in a magnanimous desire, a fervent spirit of reparation, and a worldwide vision of apostolic work. Let us fervently ask that the most precious Blood, shed for all humanity, may finally bring conversion and salvation to everyone. May the Blood of Christ be for all the pledge and guarantee of eternal life.</string>
+
+    <string name="smeditados">Meditated Mysteries</string>
+    <string name="smeditadosDetalle">Each mystery will display its meditation</string>
+    <string name="sNotificaciones">Daily notifications</string>
+    <string name="sNotificacionesDetalle">Receive a daily notification reminding you to pray the rosary</string>
+    <string name="sVelocidad">Reading speed</string>
+    <string name="sOtras">Other apps</string>
+    <string name="sOtrasDetalle">Other applications created by the same developer</string>
+    <string name="sVersion">Version</string>
+</resources>

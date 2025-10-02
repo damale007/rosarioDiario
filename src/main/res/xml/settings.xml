@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <SwitchPreference
+            android:key="meditados"
+            android:title="@string/smeditados"
+            android:icon="@drawable/ic_action_meditados"
+            android:summary="@string/smeditadosDetalle"
+            android:selectAllOnFocus="true"
+            android:defaultValue="false"
+            android:singleLine="true" />
+
+        <SwitchPreference
+            android:key="notificaciones"
+            android:title="@string/sNotificaciones"
+            android:icon="@drawable/ic_notification"
+            android:summary="@string/sNotificacionesDetalle"
+            android:selectAllOnFocus="true"
+            android:defaultValue="true"
+            android:singleLine="true" />
+
+        <SeekBarPreference
+            android:key="velocidad"
+            android:max="5"
+            android:min="1"
+            android:icon="@drawable/ic_action_speed"
+            android:defaultValue="3"
+            app:showSeekBarValue="true"
+            android:title="@string/sVelocidad" />
+
+        <Preference
+            android:key="apps"
+            android:icon="@drawable/ic_apps"
+            android:title="@string/sOtras"
+            android:summary="@string/sOtrasDetalle" />
+
+        <Preference
+            android:key="version"
+            android:icon="@drawable/ic_action_version"
+            android:title="@string/sVersion"
+            android:summary="1.1" />
+
+</PreferenceScreen>

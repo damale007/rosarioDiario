@@ -1,0 +1,53 @@
+plugins {
+    alias(libs.plugins.android.application)
+    alias(libs.plugins.jetbrains.kotlin.android)
+    alias(libs.plugins.google.gms.google.services)
+}
+
+android {
+    namespace 'com.conadasoft.rosariodiario'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId "com.conadasoft.rosariodiario"
+        minSdk 27
+        targetSdk 35
+        versionCode 30
+        versionName '3.0.8'
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+    viewBinding {
+        enable = true
+    }
+}
+
+dependencies {
+
+    implementation libs.appcompat
+    implementation libs.material
+    implementation libs.activity
+    implementation libs.constraintlayout
+    implementation libs.core.ktx
+    testImplementation libs.junit
+    implementation(libs.work.runtime.ktx)
+    androidTestImplementation libs.ext.junit
+    androidTestImplementation libs.espresso.core
+    implementation libs.play.services.ads
+    implementation libs.preference
+}

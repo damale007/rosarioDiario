@@ -1,0 +1,255 @@
+<resources>
+    <string name="app_name">RosarioDiario</string>
+
+    <string name="botonIniciar">Salir</string>
+    <string name="botonSiguiente">Siguiente Misterio</string>
+
+    <string name="inicio">Parte inicial</string>
+
+    <string name="titulo">Santo Rosario</string>
+    <string name="tituloAveMaria">Ave María</string>
+    <string name="numAaveMaria">0</string>
+    <string name="botonAveMaria">Ave María >></string>
+    <string name="contador">Contador de Ave Marías</string>
+
+    <string name="permisos">Necesitarás habilitar manualmente el permiso de notificaciones si quieres recibirlas en su móvil</string>
+    <string name="rechazaPermisos">Rechazando este permisos no podrá recibir recordatorios del rezo del rosario</string>
+
+    <!-- Otras Apps -->
+    <string name="titulo_otras_apps">Otras Apps del Autor</string>
+
+    <string-array name="misterios">
+        <item>Parte inicial</item>
+        <item>Primer Misterio</item>
+        <item>Segundo Misterio</item>
+        <item>Tercer Misterio</item>
+        <item>Cuarto Misterio</item>
+        <item>Quinto Misterio</item>
+        <item>Letanías</item>
+    </string-array>
+
+    <string name="misteriosHoy">Los misterios de hoy son los</string>
+
+    <string name="misterioGlorioso">gloriosos</string>
+    <string name="misterioGozoso">gozosos</string>
+    <string name="misterioDoloroso">dolorosos</string>
+    <string name="misterioLuminoso">luminosos</string>
+    <string name="tituloLetanias">Letanías de las Santísima Virgen.</string>
+
+    <string-array name="letanias">
+        <item>Señor, ten piedad</item>
+        <item>Cristo, ten piedad</item>
+        <item>Señor, ten piedad..</item>
+        <item>Cristo, óyenos..</item>
+        <item>Cristo, escúchanos..</item>
+        <item>Dios Padre celestial..</item>
+        <item>Dios Hijo, Redentor del mundo..</item>
+        <item>Dios Espíritu Santo..</item>
+        <item>Trinidad Santa, un solo Dios..</item>
+        <item>Santa María,</item>
+        <item>Santa Madre de Dios..</item>
+        <item>Santa Virgen de las Vírgenes..</item>
+        <item>Madre de Cristo..</item>
+        <item>Madre de la divina gracia..</item>
+        <item>Madre purísima..</item>
+        <item>Madre castísima..</item>
+        <item>Madre inviolada..</item>
+        <item>Madre virgen..</item>
+        <item>Madre inmaculada..</item>
+        <item>Madre amable..</item>
+        <item>Madre del buen consejo..</item>
+        <item>Madre del Creador..</item>
+        <item>Madre del Salvador..</item>
+        <item>Madre de la Iglesia..</item>
+        <item>Virgen prudentísima..</item>
+        <item>Virgen digna de veneración..</item>
+        <item>Virgen digna de alabanza..</item>
+        <item>Virgen poderosa..</item>
+        <item>Virgen clemente..</item>
+        <item>Virgen fiel..</item>
+        <item>Espejo de justicia..</item>
+        <item>Ideal de Santidad..</item>
+        <item>Trono de sabiduría..</item>
+        <item>Causa de nuestra alegría..</item>
+        <item>Templo del Espíritu Santo..</item>
+        <item>Honor de la humanidad..</item>
+        <item>Modelo de entrega a Dios..</item>
+        <item>Rosa escogida..</item>
+        <item>Fuerte como la torre de David..</item>
+        <item>Hermosa como la torre de marfil..</item>
+        <item>Casa de oro..</item>
+        <item>Arca de la Nueva Alianza..</item>
+        <item>Puerta del cielo..</item>
+        <item>Estrella de la mañana..</item>
+        <item>Salud de los enfermos..</item>
+        <item>Refugio de los pecadores..</item>
+        <item>Consoladora de los afligidos..</item>
+        <item>Auxilio de los cristianos..</item>
+        <item>Reina de los Ángeles..</item>
+        <item>Reina de los Patriarcas..</item>
+        <item>Reina de los Profetas..</item>
+        <item>Reina de los Apóstoles..</item>
+        <item>Reina de los Mártires.</item>
+        <item>Reina de los Confesores de la fe..</item>
+        <item>Reina de las Vírgenes..</item>
+        <item>Reina de todos los Santos..</item>
+        <item>Reina concebida sin pecado original..</item>
+        <item>Reina asunta a los Cielos..</item>
+        <item>Reina del Santísimo Rosario..</item>
+        <item>Reina de la paz..</item>
+        <item>Reina de las familias.. </item>
+        <item>Cordero de Dios, que quitas el pecado del mundo…</item>
+        <item>Cordero de Dios, que quitas el pecado del mundo…</item>
+        <item>Cordero de Dios, que quitas el pecado del mundo…</item>
+        <item>Bajo tu protección los acogemos, Santa Madre de Dios, no deseches las súplicas que dirigimos en nuestras necesidades, antes bien, líbranos siempre de todo peligro, oh Virgen gloriosa y bendita.</item>
+        <item>Ruega por nosotros, Santa Madre de Dios.</item>
+        <item>Para que seamos dignos de alcanzar las promesas de Nuestro Señor Jesucristo. Amén.</item>
+    </string-array>
+
+    <string-array name="respuestaLetanias">
+        <item>R/ Señor, ten piedad</item>
+        <item>R/ Cristo, ten piedad</item>
+        <item>R/ Señor, ten piedad..</item>
+        <item>R/ Cristo, óyenos..</item>
+        <item>R/ Cristo, escúchanos..</item>
+        <item>R/ Ten misericordia de nosotros</item>
+        <item>R/ Ten misericordia de nosotros</item>
+        <item>R/ Ten misericordia de nosotros</item>
+        <item>R/ Ten misericordia de nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Ruega por nosotros</item>
+        <item>R/ Perdónanos Señor</item>
+        <item>R/ Escúchanos Señor</item>
+        <item>R/ Ten misericordia de nosotros</item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+
+    <string name="jesusMio">María, Madre de gracia, Madre de misericordia, en la vida y en la muerte, ampáranos gran Señora. Amén.\n\n¡Oh Jesús mío!, perdona nuestros pecados, líbranos del fuego del infierno, lleva todas las almas al cielo y socorre especialmente a las más necesitadas de tu Divina Misericordia.</string>
+
+    <string name="inicioRosario"> Por la señal de la Santa Cruz, de nuestros enemigos, líbranos Señor Dios Nuestro. \n\nSeñor mío Jesucristo, Dios y Hombre verdadero, Creador, Padre y Redentor mío, por ser Vos quien sois y porque os amo sobre todas las cosas, me pesa de todo corazón haberos ofendido; propongo firmemente nunca más pecar, apartarme de todas las ocasiones de ofenderos, confesarme y, cumplir la penitencia que me fuera impuesta. Ofrezco, Señor, mi vida, obras y trabajos, en satisfacción de todos mis pecados, y, así como lo suplico, así confío en vuestra bondad y misericordia infinita, que los perdonareis, por los méritos de vuestra preciosísima sangre, pasión y muerte, y me daréis gracia para enmendarme, y perseverar en vuestro santo amor y servicio, hasta el fin de mi vida.\n\n Amén. Señor, ábreme los labios y mi boca proclamará tu alabanza. Dios mio, ven en mi auxilio, Señor, date prisa en socorrerme. Gloria al Padre, y al Hijo y al Espíritu Santo.</string>
+
+    <string name="oracionFinal">Oremos: Te rogamos Señor y Dios nuestro, nos concedas a tus siervos gozar de perpétua salud de alma y cuerpo, y, por la gloriosa intersección de la Bienaventurada siempre Virgen María ser librados de la tristeza presente y disfrutar de la eterna alegría del Cielo. Por Jesucristo nuestro Señor. Amén</string>
+    <string name="intenciones">Por la persona e intenciones del Romano Pontífice y las necesidades de la Santa Iglesia. Te pedimos Señor, nos concedas a nosotros tus siervos, gozar de perpetua salud de alma y cuerpo, y por la gloriosa intercesión de la bienaventurada siempre Virgen María, seamos librados de las tristezas presentes y gocemos de la eterna alegría. Por Jesucristo, nuestro Señor. Amén.</string>
+
+    <string name="gloria">Gloria</string>
+    <string name="gloria1">Gloria al Padre al Hijo y al Espíritu Santo</string>
+    <string name="gloria2">como era en un principio, ahora y siempre por los siglos de los siglos. Amén</string>
+
+    <string name="tituloPadreNuestro">Padre nuestro</string>
+    <string name="padreNuestro">Padre nuestro que estás en el cielo, santificado sea tu Nombre; venga a nosotros tu Reino; hágase tu voluntad en la tierra como en el cielo. Danos hoy nuestro pan de cada día; perdona nuestras ofensas,como también nosotros perdonamos a los que nos ofenden; no nos dejes caer en la tentación, y líbranos del mal. Amén.</string>
+    <string name="padreNuestro1">Padre nuestro que estás en el cielo, santificado sea tu Nombre; venga a nosotros tu Reino; hágase tu voluntad en la tierra como en el cielo.</string>
+    <string name="padreNuestro2">Danos hoy nuestro pan de cada día; perdona nuestras ofensas,como también nosotros perdonamos a los que nos ofenden; no nos dejes caer en la tentación, y líbranos del mal. Amén.</string>
+
+    <string name="aveMaria">Dios te salve María, llena eres de gracia, el Señor es contigo, bendita tú eres entre todas las mujeres y bendito es el fruto de tu vientre Jesús. Santa María, Madre de Dios, ruega por nosotros pecadores, ahora y en la hora de nuestra muerte Amén.</string>
+    <string name="aveMaria1">Dios te salve María, llena eres de gracia, el Señor es contigo, bendita tú eres entre todas las mujeres y bendito es el fruto de tu vientre Jesús.</string>
+    <string name="aveMaria2">Santa María, Madre de Dios, ruega por nosotros pecadores, ahora y en la hora de nuestra muerte Amén.</string>
+
+    <string name="glorioso1">La Resurrección del Señor.</string>
+    <string name="glorioso2">La Ascensión del Señor.</string>
+    <string name="glorioso3">La venida del Espíritu Santo sobre María y los apóstoles.</string>
+    <string name="glorioso4">La Asunción de Nuestra Señora a los Cielos.</string>
+    <string name="glorioso5">La Coronación de María como reina de todo lo creado.</string>
+
+    <string name="gozoso1">La encarnación del Hijo de Dios</string>
+    <string name="gozoso2">La visitación de Nuestra Señora a Santa Isabel</string>
+    <string name="gozoso3">El nacimiento del Hijo de Dios</string>
+    <string name="gozoso4">La presentación del Señor en el templo</string>
+    <string name="gozoso5">Pérdida del Niño Jesús y su hallazgo en el templo</string>
+
+    <string name="doloroso1">La oración de Jesús  en el Huerto de Getsemaní</string>
+    <string name="doloroso2">La flagelación del Señor</string>
+    <string name="doloroso3">La coronación de espinas</string>
+    <string name="doloroso4">Jesús con la cruz a cuestas camino al calvario</string>
+    <string name="doloroso5">La Crucifixión y Muerte de Nuestro Señor</string>
+
+    <string name="luminoso1">El Bautismo en el Jordán</string>
+    <string name="luminoso2">La autorrevelación en las bodas de Caná</string>
+    <string name="luminoso3">El anuncio del Reino de Dios invitando a la conversión</string>
+    <string name="luminoso4">La Transfiguración</string>
+    <string name="luminoso5">La Institución de la Eucaristía</string>
+
+    <string name="meditacionLuminoso1">Bautizado Jesús, salió luego del agua; y en esto se abrieron los cielos y vio al Espíritu de Dios que bajaba en forma de paloma y venía sobre él. Y una voz que salía de los cielos decía: "Este es mi Hijo amado, en quien me complazco"». (Mt 3,16–17)\n\nPodríamos imaginar a Jesús despidiéndose de su Madre para iniciar la misión que le fue encomendada, la cual duraría aproximadamente tres años. Llega al Río Jordán donde sabía que estaría Juan el Bautista preparándole el camino. Juan hacia confesar a la gente sus pecados y los bautizaba con agua para llamar al arrepentimiento y a la conversión. Jesús se presenta en medio de quienes también esperaban su turno para ser bautizados y pide públicamente el ser bautizado. Juan al verlo le dice asombrado “yo soy el que necesito que tu me bautices!”,  reconociendo a Jesús como nuestro salvador delante de todos,  quien viene a bautizarnos con el Espíritu Santo para liberarnos del pecado original y hacernos hijos amados de Dios Padre; pero Jesús lo invita a unirse a El para cumplir la Voluntad de Dios.\n\nReflexión\nJesús nos muestra su humildad porque aun siendo el Hijo de Dios, se hace bautizar delante de tanta gente, permitiéndonos entender con este hecho la importancia que ha de tener el Sacramento del Bautismo en nuestras vidas. Juan Bautista nos deja el testimonio de haber visto el Espíritu de Dios en forma de paloma posarse sobre Jesús y haber escuchado la voz de un Padre complacido.\nEn este Evangelio se nos enseña que uniéndonos a Jesús nos unimos al Padre a través del Espíritu Santo, un misterio inexplicable de fe.\nDivina Unión, Santa Unión, Misteriosa Unión que nos bendice en el Padre, el Hijo y el Espíritu Santo, ayúdanos a imitar la humildad de Cristo, a crecer como verdaderos hijos de Dios, a obedecer sus mandamientos y a unirnos a El para que se cumpla siempre la Voluntad de Dios.</string>
+    <string name="meditacionLuminoso2">Tres días después se celebraba una boda en Caná de Galilea y estaba allí la madre de Jesús. Fue invitado también a la boda Jesús con sus discípulos. Y, como faltara vino, porque se había acabado el vino de la boda, le dice a Jesús su madre: "No tienen vino". Jesús le responde: "¿Qué tengo yo contigo, mujer? Todavía no ha llegado mi hora". Dice su madre a los sirvientes: "Haced lo que él os diga"». (Jn 2, 1–5).\nPodemos imaginar a Jesus, María y a los discípulos de Jesus, entre muchos familiares y amigos cercanos disfrutando de una boda bendecida con la presencia de Jesus. El Señor nos muestra en este Evangelio su complacencia en la santa unión de un hombre y una mujer, porque alli en esa Boda instituye el sacramento del Matrimonio al realizar su primer milagro.\n\nReflexión\nEl Evangelio nos dice claramente que “la Madre de Jesus estaba allí”. Si,  la Madre de Jesus siempre esta alli, donde esta Jesus. Ella esta velando por las necesidades de los demas y se preocupa por el bienestar de sus hijos. Nuestra Virgen Maria,  esta junto a Jesus para decirle, “no tienen vino”, no tienen salud, no tienen trabajo, no tienen vida, no tienen esperanza, no tiene fe, si, allí esta nuestra Madre procurando colaborar en los asuntos de Jesus, y con sus palabras humildes nos pide simplemente “Hagan, lo que El les diga”, nos dice claramente confíen, no pierdan la esperanza, entreguense a El y escuchenlo!\nSanta Madre de Dios, dulce Virgen María, sabemos que siempre vigilas nuestras necesidades y te adelantas a abogar por nuestras carencias. Y Tu Señor, nos dejas ver claramente en este Evangelio el amor tan grande que sientes por tu Madre y que eres debil a sus peticiones. Así como Tu Señor, deseamos amar a María, y complacerla como Tu lo haces, porque Ella tan solo quiere que hagamos, lo que Tu nos digas.</string>
+    <string name="meditacionLuminoso3">El tiempo se ha cumplido y el Reino de Dios está cerca; convertíos y creed en el Evangelio. (Mc 1, 15)\nEn este Evangelio Jesús nos invita a la conversión. Convertirse significa dejarlo todo para seguir a Jesús. Convertirse significa actuar por Cristo y en Cristo. Convertirse significa descubrir y agradecer las virtudes de la fe, la esperanza y la caridad. Convertirse significa cruzar las fronteras de nuestro egoísmo y ver a Jesús en nuestros hermanos. Convertirse requiere abandonarse a la voluntad de Dios y estar agradecidos incluso en las desavenencias, enfermedades, humillaciones, falsos testimonios y descubrir en ellos que aceptándolos nos permiten demostrarle al Señor cuan inmenso es nuestro amor, porque amamos también lo que El dispone para nosotros y para nuestra salvación.\n\nReflexión\nConvertirse es amar con sinceridad. Convertirse es colocar a Dios en el centro de nuestras vidas y amarlo con todas las fuerzas. Para convertirse es necesario dejar en manos de Dios todo nuestro ser en cuerpo y alma.\nConvertirse muchas veces es saber callar para escuchar y saber hablar cuando necesitan de nuestro consuelo. Convertirse es colocar al Señor siempre en primer lugar, convertirse es olvidarse de nuestros intereses y comodidades. Convertirse es ser obedientes, es apartarnos nosotros para que sea el Señor quien protagonice. Convertirse es hablar con Dios primero y luego hablar de El con nuestros hermanos. Convertirse es no temer a ser criticados por dar testimonio de cuanto Jesús nos ama y como ha transformado nuestras vidas.\nConvertirse es darse y servir a los demás, es buscar tiempo donde no lo hay y disfrutar de emplearlo para servir a un solo Dios. Convertirse es emplearse como obrero del Señor, declararse peón, servidor, el menos útil de todos. Convertirse es sentirse nada, es vaciarse de uno mismo y llenarse de Dios. Convertirse es reconocer que nuestra conversión y las conversiones de nuestros hermanos son méritos solamente de Dios.\nSeñor, convierte nuestras almas en la tuya, para predicar tu Palabra con humildad, para ser solo instrumentos inútiles en la construcción de Tu Reino</string>
+    <string name="meditacionLuminoso4">Seis días después, Jesús tomó consigo a Pedro, a Santiago y a su hermano Juan, y los llevó aparte, a un monte alto. Y se transfiguró delante de ellos: su rostro se puso brillante como el sol y sus vestidos se volvieron blancos como la luz» (Mt 17, 1–2).\nJesús tomo a tres de sus discípulos, Pedro, Santiago y Juan. Pedro, quien lo negaría tres veces, pecador arrepentido y perdonado por Cristo, encomendado para recibir la llave de la Iglesia. Pedro quien iría a Roma a testimoniar el amor y las enseñanzas de Jesús.\n\nReflexión\nSantiago quien se traslado a España, seria el primer mártir de los discípulos y fue a su vez a quien la Virgen María le apareciese aun en vida y le animara a construir una Iglesia para su Hijo. Según la tradición, antes de su muerte, Santiago fue a Jerusalén para despedirse de María y del apóstol Juan, allí la Virgen le profetizo su martirio.\nEl Apóstol  Juan, el discípulo amado de Jesús, fue el único de los apóstoles que permaneció a los pies de la Cruz y por orden de Jesús tomo a María para llevarla a su casa y cuidar de ella. Estos tres apóstoles vieron a Jesús transfigurarse, fueron testigos de la gloria divina del Señor y recibieron la gracia de ver el Cielo. Eran tanta la felicidad que sentían que los tres deseaban quedarse allí.\nEn este Evangelio Jesus nos enseña que existe un lugar mucho mejor que este lugar donde vivimos; donde muchas veces el sufrimiento nos confunde, las desaveniencias nos llenan de desesperanza y nuestros pobres sentimientos de envidia y egoismo nos hacen debiles a las malas tentaciones. Las tribulaciones y el ruido humano disturba nuestros sentidos. Y muchas veces las necesidades materiales vacian nuestro espiritu y endurecen nuestro corazon.\nAsi como los apostoles, Jesus desea que nos apartemos y en el silencio encontremos al Padre porque asi lo hacia El. Nos invita a valorar la oracion y a vivir el mandamiento que nos dejó: “Amense los unos a los otros como Yo los he amado”, para que? Para que cuando nos encontremos cara a cara con el Padre podamos decirle cuanto hemos amado a nuestros hermanos.\nSeñor, el ruido de este mundo nos atrapa y nos aleja de Ti, deseamos buscarte en el silencio y encontrarnos alli contigo. Sabemos que el camino al Cielo lo vamos construyendo diariamente con nuestras acciones. Te pedimos que podamos transfigurar nuestros sentimientos en los tuyos para amar a nuestros hermanos de la misma manera que tu nos amas.</string>
+    <string name="meditacionLuminoso5">Mientras estaban comiendo, tomó Jesús pan y lo bendijo, lo partió y, dándoselo a sus discípulos, dijo: "Tomad, comed, éste es mi cuerpo (Mt 26, 26).\nPodríamos imaginar a los discipulos alrededor de Jesus, escuchando palabras que quizas no comprendían, puesto que para ellos y para cualquiera de nosotros sería dificil entender que un pedazo de pan y una porción de vino puedan convertirse en el Cuerpo y la Sangre de Cristo. Para esto se requiere de una gracia especial que solamente viene de Dios y que es recibida solo por aquellos de corazon humilde “que creen sin haber visto”. Como diría Jesus a Santo Tomas en el momento de la Resurreccion.\n\nReflexión\nLos misterios luminosos nos alumbran un camino que inicia desde el momento en que somos bautizados, luego nos conduce a entender la debilidad de Jesus ante el amor de su Madre; mostrandonos el poder de intercesión de María como abogada nuestra. Mas adelante nos invita a convertirnos con sinceridad y a creer en el Evangelio para llevarlo precisamente allí donde los sacerdotes no pueden llegar. Pero para esto Jesus nos pide tener un corazon humilde, un espiritu transfigurado en el Suyo y nos llama aparte para imitarlo en la oración. Luego, los apostoles nos ilustran a Jesus en su gloria divina, nos describen un lugar mas bello que este mundo y nos alientan a comprender que el sufrimiento es la esperanza de nuestra salvación. Y en este ultimo misterio Jesus nos revela que se queda con nosotros en el Pan Eucarístico y nos pide “coman y beban de el porque este es mi Cuerpo”. Jesus nos dice claramente Quien come mi carne y bebe mi sangre tiene vida eterna y yo le resucitaré en el último día.\nEn este Evangelio Jesus tambien instituye la Orden Sacerdotal, puesto que pide a sus Apostoles “Hagan esto en memoria mia”, que repitan lo que El hizo en la Ultima Cena. Los Apostoles de Jesus no han dejado de cumplir este mandato, porque sus sucesores han dejado todo para seguirlo y esos son nuestros santos sacerdotes.\nPidamos al Señor que nos regale la virtud de la fe, para que creer firmemente en la Santa Eucaristia, para disponer de un tiempo para acompañar a Jesus en el Sagrario fuente de gracia que sacia nuestro espiritu y lo fortalece. Para asistir a la celebracion de la Santa Eucaristia, la Santa Misa. Para que con nuestras buenas acciones podamos día a día construir el camino de nuestra salvación, para ser dignos de entrar en su Reino y vivir junto a El por toda la eternidad.\nPedimos al Señor santidad para nuestros sacerdotes, fortaleza para todos los seminaristas y religiosos que se encuentran en momentos de dicernimiento. Le pedimos tambien por abundancia de vocaciones en el mundo que puedan apoyar a Jesus en la misión de su Iglesia.</string>
+
+    <string name="meditacionGlorioso1">«El primer día de la semana, muy de mañana, fueron al sepulcro llevando los aromas que habían preparado. Pero encontraron que la piedra había sido retirada del sepulcro, y entraron, pero no hallaron el cuerpo del Señor Jesús. No sabían qué pensar de esto, cuando se presentaron ante ellas dos hombres con vestidos resplandecientes. Ellas, despavoridas, miraban al suelo, y ellos les dijeron: "¿Por qué buscáis entre los muertos al que está vivo? No está aquí, ha resucitado"» (Lc 24, 1–6).\n\nReflexión\nA la luz del misterio nuestra fe contempla vivientes, unidas ya para siempre a Jesucristo resucitado, las almas que nos fueron más queridas, de cuya familiaridad gozamos, cuyas penas compartimos. ¡Cómo se aviva en el corazón, al calor del misterio de la resurrección, el recuerdo de nuestros muertos! Recordados y favorecidos con el sufragio del sacrificio del Señor crucificado y resucitado, toman parte aún en lo mejor de nuestra vida, la oración y Jesucristo.\n\nIntención\nPor algo la liturgia oriental termina los ritos fúnebres con el aleluya por todos los muertos. Pidamos para ellos la luz de las moradas eternas, mientras el pensamiento se detiene en la resurrección que aguarda a nuestros propios restos mortales: “Espero en la resurrección de los muertos”. El saber esperar. El confiar siempre en la suavísima promesa, de la que es prenda la resurreción de Cristo, es ciertamente un cielo anticipado.</string>
+    <string name="meditacionGlorioso2">«El Señor Jesús, después de hablarles, ascendió al cielo y se sentó a la derecha de Dios» (Mc 16, 19).\n\nReflexión\nEste momento del Rosario nos enseña y exhorta a que no nos dejemos prender en lo que pesa y entorpece, abandonándonos, en cambio, a la voluntad del Señor, que nos estimula hacia lo alto. En el momento de volver al Padre, subiendo al cielo, los brazos del Señor se abren bendiciendo a los primeros apóstoles, y alcanza a todos los que, siguiendo sus huellas, siguen creyendo en Él, y es para sus almas una plácida y serena seguridad del encuentro definitivo con Él y todos los salvados en la felicidad eterna.\n\nIntención\nAnte todo, el misterio e nos presenta como luz y norma para las almas que se preocupan de su propia vocación. En lo íntimo del misterio se halla el movimiento de vida espiritual, el deseo ardiente de superación continua, que arde en el corazón de los sacerdotes no apegados a ls cosas de la tierra, cuidadosos únicamente de abrirse, y abrir a otros, caminos que llevan a la perfección y santidad, al grado de gracia a que deben llegar, en privado o en común: sacerdotes, religiosos y religiosas, misioneros y misioneras, seglares amantes de Dios y de su Iglesia, y muchas almas, aquellas al menos que son como “el buen olor de Cristo”, junto a las cuales se siente cercano al Señor. Viven, en efecto, ya ahora, en una comunión constante de vida celestial.</string>
+    <string name="meditacionGlorioso3">«Al llegar el día de Pentecostés, estaban todos reunidos en un mismo lugar. De repente vino del cielo un ruido como el de una ráfaga de viento impetuoso, que llenó toda la casa en la que se encontraban. Se les aparecieron unas lenguas como de fuego que se repartieron y se posaron sobre cada uno de ellos; quedaron todos llenos del Espíritu Santo y se pusieron a hablar en otras lenguas, según el Espíritu les concedía expresarse» (Hch 2, 1–4).\n\nReflexión\nLa virtud divina que infunde el Espíritu Santo en el alma de los hombres es gran apoyo de la espeanza, fuerza poderosa, única ayuda verdadera para la vida humana. Nos referimos a la gracia que nos santifica, y que en realidad es precedida y seguida de gracias efectivas. Ciertamente lo que importa grandemente es el que el espíritu de los hombres se renueve en su interior, naciendo a nueva vida.\n\nIntención\nMaría, la Madre de Jesús, y siempre dulce Madre nuestra, se hallaba con los apóstoles en el cenáculo de Pentecostés. Permanezcamos muy cerca de ella por medio del Rosario. Nuestras oraciones unidas a las suyas renovarán el antiguo prodigio. Será como el nacimiento de un nuevo día, un alba esplendorosa en la Iglesia católica, santa y aún más santa, católica y aún más católica, en los tiempos modernos.</string>
+    <string name="meditacionGlorioso4">«Todas las generaciones me llamarán bienaventurada porque el Señor ha hecho obras grandes en mí» (Lc 1, 48–49).\n\nReflexión\nEs motivo de consuelo y confianza, en los días de dolor, para las almas privilegiadas –y todos podemos serlo, a condición de ser fieles a la gracia- que Dios prepara en el silencio al triunfo más bello, al triunfo del altar.\n\nIntención\nEl misterio de la Asunción nos hace familiar el pensamiento de la muerte, de nuestra muerte, y es una invitación al abandono confiado. Nos familiariza y hace amigos de la idea de que el Señor estará presente en nuestra agonía, como querríamos que estuviese, para tomar Él en sus manos nuestra alma inmortal.\n¡Virgen Inmaculada: que podamos compartir contigo la gloria celestial!\n</string>
+    <string name="meditacionGlorioso5">«Una gran señal apareció en el cielo: una mujer, vestida de sol, con la luna bajo sus pies, y una corona de doce estrellas sobre su cabeza» (Ap 12, 1).\n\nReflexión\nLa reflexión ha de recaer sobre nosotros mismos; sobre nuestra vocación por la que un día seremos asociados a los ángeles y a los santos y cuyas gracias santificantes anticipan ya desde esta vida la realidad mistreriosa y consoladora; ¡oh qué delicia, oh qué gloria! Somos “conciudadanos de los santos y de la familia de Dios; edificados sobre el fundamento de los apóstoles y de los profetas, siendo piedra angular el mismo Cristo Jesús”.\n\nIntención\nLa intención de este misterio es orar por la perseverancia final y por la paz sobre la tierra, que abre las puertas de la eternidad bienaventurada.\nOh María, tú que ruegas con nosotros, tú que ruegas por nosotros. Lo sabemos. Lo sentimos, oh qué realidad más deliciosa, qué gloria más soberana, en esta concordia celestial y humana de afectos, de palabras, de vida, que nos ha procurado y procura el Rosario: mitigación del dolor, prueba sabrosa de paz celestial, esperanza de vida eterna.</string>
+
+    <string name="meditacionGozosos1">«Al sexto mes el ángel Gabriel fue enviado por Dios a una ciudad de Galilea, llamada Nazaret, a una virgen desposada con un hombre llamado José, de la estirpe de David; el nombre de la virgen era María» (Lc 1,26–27)\n\nReflexión\nReflexionando sobre esto, nuestro primer deber inolvidable es dar gracias a Dios, porque se ha dignado venir a salvarnos. Por esto se ha hecho hombre, hermano nuestro. Igual a nosotros en cuanto a nacer de una mujer, de la que nos ha hecho hijos de adopción al pie de la cruz. Hijos adoptivos de su Padre celestial, ha querido que lo seamos igualmente de su misma madre.\n\nIntención\nSea la intención de nuestra oración, al contemplar este primer misterio que se nos ofrece a la meditación, además de dar gracias continuamente, un esfuerzo, en verdad sincero y leal, de humildad, de pureza, de caridad, virtudes de las que nos da tan alto ejemplo la Virgen bendita.</string>
+    <string name="meditacionGozosos2">«En aquellos días María se puso en camino y fue aprisa a la región montañosa, a una ciudad de Judá; entró en casa de Zacarías y saludó a Isabel.\n\nReflexión\nY sucedió que, en cuanto Isabel oyó el saludo de María, saltó de gozo el niño en su seno, e Isabel quedó llena de Espíritu Santo; y exclamando a voz en grito, dijo: Bendita tú entre las mujeres y bendito el fruto de tu seno» (Lc 1, 39–42)\n\nReflexión\nCuanto sucede aquí, en Ain-Karem, en el monte Hebrón, presenta, con luz celeste y al mismo tiempo muy humana, qué relaciones son las que unen entre sí a las buenas familias cristianas, educadas en la antigua escuela del Rosario. Rosario recitado cada noche en casa, en el círculo de los íntimos. Rosario recitado, no en una ni en cien, ni en mil familias, sino por todas y por todos, y en todos los lugares de la tierra, allí donde uno cualquiera de nosotros sufre, lucha y ora, fiel a una inspiración de lo alto, como el sacerdocio, la caridad misionera, la prosecución de un ideal de apostolado; o también por fidelidad a uno de aquello motivos, tan legítimos que llegan a ser obligatorios, como el trabajo, el comercio, el servicio militar, el estudio, la enseñanza, o cualquier otra ocupación.\n\nIntención\nBello es confundirse durante las diez avemarías del misterio con tantas y tantas almas, unidas por vínculos de sangre, o domésticos, en una relación que santifica y por lo mismo consolida el amor de las personas amadas: con padres e hijos, hermanos y parientes, vecinos y compatriotas. Todo esto, con la finalidad y el propósito vivido de sostener, aumentar y hacer más viva la presencia de la caridad con todos, cuyo ejercicio proporciona la alegría más profunda y es el mayor honor de la vida.</string>
+    <string name="meditacionGozosos3">Sucedió que por aquellos días salió un edicto de César Augusto ordenando que se empadronase todo el mundo. Este primer empadronamiento tuvo lugar siendo Cirino gobernador de Siria. Iban todos a empadronarse, cada uno a su ciudad.\n\nSubió también José desde Galilea, de la ciudad de Nazaret, a Judea, a la ciudad de David, que se llama Belén, por ser él de la casa y familia de David, para empadronarse con María, su esposa, que estaba encinta. Y sucedió que, mientras ellos estaban allí, se le cumplieron los días del alumbramiento, y dio a luz a su hijo primogénito, le envolvió en pañales y le acostó en un pesebre, porque no tenían sitio en el alojamiento» (Lc 2,1–7).\n\nReflexión\nEn este misterio no quede una sola rodilla sin doblarse ante la cuna, en gesto de adoración. Nadie se quede sin ver los ojos del divino Niño que miran lejos, como queriendo ver, uno a uno, todos los pueblos de la tierra. Van pasando uno a uno ante su presencia, como en una revista, y los reconoce a todos: hebreos, romanos, griegos, chinos, indios, pueblos de África, de cualquier región de la tierra, o época de la historia. Las regiones más distantes y desérticas, las más remotas e inexploradas; los tiempos pasados, el presente, y los tiempos por venir.\n\nIntención\nAl Santo Padre, en el transcurso de las diez Avemarías, le gusta encomendar a Jesús que nace, el incontable número de niños -¡cuántos son!, muchedumbre interminable- que han nacido en las últimas veinticuatro horas, de día o de noche, de la raza que sean, aquí y allí, un poco por toda la tierra. ¡Cuántos son! Todos ellos pertenecen, de derecho, bautizados o no, a Jesús, el niño que acaba de nacer en Belén. Están llamados al reconocimiento de su dominio, que es el mayor y más dulce que pueda darse en el corazón del hombre, o en las historia del mundo: único dominio digno de Dios y de los hombres. Reino de luz y de paz, el reino que pedimos en el Padrenuestro.</string>
+    <string name="meditacionGozosos4">Cuando se cumplieron los ocho días para circuncidarle, se le dio el nombre de Jesús, como lo había llamado el ángel antes de ser concebido en el seno. Cuando se cumplieron los días de la purificación de ellos, según la Ley de Moisés, llevaron a Jesús a Jerusalén para presentarle al Señor, como está escrito en la Ley del Señor: Todo varón primogénito será consagrado al Señor y para ofrecer en sacrificio un par de tórtolas o dos pichones, conforme a lo que se dice en la Ley del Señor» (Lc 2, 21–24).\n\nReflexión e intención\nDe manera diferente, pero semejante en cuanto al sentido de la ofrenda, el episodio se renueva continuamente en la Iglesia, o por mejor decir, es algo constante en ella. Será muy grato contemplar, durante las diez Avemarías, el campo que germina, la cosecha que se alza. “Mirad los campos que ya están amarillos para la siega”. Me refiero a la alegre esperanza que se ve nacer del sacerdocio, de sus cooperadores y cooperadoras, tan numerosos en el reino de Dios, y sin embargo no suficientes aún. Jóvenes del seminario, de las casas religiosas, seminarios de misiones, y aun en las universidades católicas. ¿Por qué no aquí, si son cristianos, llamados también ellos a ser apóstoles? Y la alegre esperanza de tantas iniciativas de apostolado de los seglares, imprescindibles en el mañana. Apostolado que, no obstante las dificultades y pruebas de su expansión, ofrece, y jamás dejará de ofrecer, un espectáculo tan conmovedor que arranca palabras de alegría y admiración.\nLuz y revelación de las gentes, gloria de pueblo elegido.</string>
+    <string name="meditacionGozosos5">Sus padres iban todos los años a Jerusalén a la fiesta de la Pascua. Cuando tuvo doce años, subieron ellos como de costumbre a la fiesta y, al volverse, pasados los días, el niño Jesús se quedó en Jerusalén, sin saberlo sus padres…\n Y sucedió que al cabo de tres días, le encontraron en el Templo sentado en medio de los maestros, escuchándoles y preguntándoles; todos los que le oían, estaban estupefactos por su inteligencia y sus respuestas» (Lc 2, 41–47)\n\nReflexión\nEl deber de la inteligencia humana es el mismo en todo tiempo: recoger la sabiduría del pasado, transmitir la buena doctrina, hacer avanzar, con firmeza y humildad, la investigación científica. Nosotros morimos uno tras otro. Vamos hacia Dios. La humanidad, en cambio, mira al porvenir.\nCristo no está jamás ausente, ni del conocimiento sobrenatural, ni en el ámbito del natural. Está siempre en el juego, en su puesto. “Uno solo es vuestro maestro, Cristo”.\n\nIntención\nÉsta, que es la quinta decena, última de los misterios gozosos, reservémosla, con una intención especialísima, a favor de todos aquellos que han sido llamados por Dios –por su capacidad natural, por circunstancias de la vida, por voluntad de sus superiores- al servicio de la verdad: en la investigación o la enseñanza, difundiendo el saber antiguo, o las técnicas nuevas, mediante libros o técnicas audiovisuales. Todos ellos están llamados a imitar a Jesucristo: los intelectuales, profesores, periodistas. Todos, especialmente los periodistas, a quienes incumbe diariamente la tarea peculiarísima de hacer honor a la verdad, deben transmitirla con religiosa escrupulosidad, con agudo buen sentido, sin  distorsionarla ni desfigurarla con fantasías.\nSi, sí, recemos por todos ellos: recemos por ellos, sean sacerdotes o seglares; para que sepan escuchar la verdad; y cuánta pureza de corazón se necesita para que sepan comprenderla; y cuánta humildad íntima de pensamiento es necesaria para que sepan defenderla, ya que desde entonces se hace inevitable la obediencia, que fue la fuerza de Jesús, y es la fuerza de los santos. Sólo la obediencia obtiene la paz, es decir, la victoria.</string>
+
+    <string name="meditacionDoloroso1">«Entonces Jesús fue con ellos a un huerto, llamado Getsemaní, y dijo a sus discípulos: "Sentaos aquí mientras voy a orar". Y tomando consigo a Pedro y a los dos hijos de Zebedeo, comenzó a sentir tristeza y angustia. Entonces les dijo: "Mi alma está triste hasta el punto de morir; quedaos aquí y velad conmigo". Y adelantándose un poco, cayó rostro en tierra, y suplicaba así: "Padre mío, si es posible, que pase de mí esta copa, pero no sea como yo quiero, sino como quieras tú"» (Mt 26, 36–39).\n\nReflexión\nLa escena de Getsemaní nos conforta y anima a realizar un esfuerzo voluntario de aceptación. La aceptación incondicional del sufrimiento, cuando es Dios quien lo quiere o permite: “No se haga mi voluntad, sino la tuya”. Palabras que desgarran y curan, porque enseñan a qué grado de fervor puede y debe llegar el cristiano que sufre, unido a Cristo que sufre. Ellas nos dan, como en última pincelada, la certeza de méritos inefables, el merecimiento de la vida divina para nosotros, vida palpitante hoy en nosotros por la gracia, mañana en la gloria.\n\nIntención\nEn este misterio se presenta ante nuestra mirada una intención  particular: “la preocupación por todas las Iglesias”. Solicitud que impulsa con apremio la oración diaria del Santo Padre, como el viento que azotaba el lago de Genesaret, “viento contrario”. Pensamiento anhelante en las situaciones más comprometidas de su altísimo ministerio pastoral. Preocupación por la Iglesia, que esparcida por la redondez de la tierra, sufre unida a él, y él, por su parte, unido a ella, presente en él y sufriendo con él. Afán dolorido por tantas almas, porciones enteras del rebaño de Cristo, sujetas a persecución, sin libertad de creer, de pensar, de vivir. “¿Quién desfallece que no desfallezca yo?”\nParticipar en el dolor del prójimo, padecer con quien padece, llorar con quien llora es un beneficio, un mérito para toda la Iglesia. La “comunión de los santos” es este tener en común, todos y cada uno, la Sangre de Cristo, el amor de los santos y de los buenos, y, también, Dios mío, nuestros pecados, nuestras debilidades. ¿Se piensa lo suficiente en esta “comunión”, que es unión, y, como diría Jesucristo, casi unidad, “que sean uno”? La cruz del Señor no sólo nos eleva a nosotros, sino que atrae a las almas. Siempre. “Y yo, cuando fuere levantado de la tierra, atraeré todos a mí”. Todo. A todos.</string>
+    <string name="meditacionDoloroso2">Pilato puso en libertad a Barrabás; y a Jesús, después de haberlo hecho azotar, lo entregó para que fuera crucificado» (Mt 27, 26).\n\nReflexión\nDe aquí se desprende una valiosa enseñanza para todos. No estaremos llamados al martirio sangriento; pero a la disciplina constante y a la diaria mortificación de las pasiones, sí. Por este medio, verdadero “via crucis” de cada día, inevitable, indispensable, que en ocasiones puede incluso llegar a ser heroico en sus exigencias, se llega paso a paso a una semejanza cada vez más estrecha con Jesucristo, a la participación en sus méritos, a la ablución por su sangre inmaculada de todo pecado en nosotros y en los demás. No se llega a esto por fáciles exaltaciones, fanatismo, ojalá inocente, jamás inofensivo.\nLa Madre, dolorida, lo vio así de flagelado. Pensemos con qué  amargura. Cuántas madres querrían poder gozar del éxito en la perfección de sus hijos, dispuestos, iniciados por ellas en la disciplina de una buena educación, en una vida sana, y en cambio tienen que llorar la pérdida de tantas esperanza, el dolor de que tantos afanes se hayan perdido.\n\nIntención\nEn las Avemarías del misterio pediremos al Señor el don de la pureza de costumbres en la familia, en la sociedad, particularmente para los corazones jóvenes, los más expuestos a la seducción de los sentidos. Y juntamente pediremos el don de la firmeza de carácter y de la fidelidad a toda prueba a las enseñanzas recibidas, a los propósitos hechos.</string>
+    <string name="meditacionDoloroso3">Entonces los soldados del procurador llevaron consigo a Jesús al pretorio y reunieron alrededor de él a toda la cohorte. Lo desnudaron y le echaron encima un manto de púrpura y, trenzando una corona de espinas, se la pusieron sobre la cabeza, y en su mano derecha una caña, y doblando la rodilla delante de él, le hacían burla diciendo: "Salve, Rey de los judíos"». (Mt 27, 27–29)\n\nReflexión\nEs el misterio cuya contemplación se ajusta mejor a aquellos que llevan el peso de graves responsabilidades en el cuidado de las almas y en la dirección del cuerpo social; por tanto, el misterio de los Papas, se los Obispos, de los Párrocos; el misterio de los gobernantes, de los legisladores, de los magistrados. También sobre su cabeza hay una corona en la cual está, sí, una aureola de dignidad y de distinción, pero que por ello mismo pesa y punza, procura espinas y disgustos. Donde está la autoridad no puede faltar la cruz, a veces de la incomprensión, la del desprecio, o la de la indiferencia y la de la soledad.\n\nIntención\nPodría ser otra aplicación del misterio pensar en la grave responsabilidad de quien por haber recibido más talentos, está por ello mismo, más obligado a hacerlos fructificar con abundancia, mediante el ejercicio constante de sus facultades, de su inteligencia. El servicio del pensamiento, quiero decir, lo que se espera de quien está mejor dotado, como luz y guía de los demás, debe prestarse con paciencia serena, rechazando tentaciones de orgullo, de egoísmo, del distanciamiento que destruye.</string>
+    <string name="meditacionDoloroso4">Y obligaron a uno que pasaba, a Simón de Cirene, que volvía del campo, el padre de Alejandro y de Rufo, a que llevara su cruz. Lo condujeron al lugar del Gólgota, que quiere decir de la "Calavera"» (Mc 15, 21–22).\n\nReflexión\nContemplando a Jesucristo que sube al Calvario, aprendemos, antes con el corazón que con la mente, a abrazarnos y besar la cruz, a llevarla con generosidad, con alegría, según las palabras del Kempis: “En la cruz está la salvación, en la cruz la vida, en la cruz está la defensa contra los enemigos, en ella la infusión de una suavidad soberana-\n¿Y cómo no extender nuestra oración a María, la Madre dolorosa que siguió a Jesús, con un espíritu de total participación en sus méritos, en sus dolores?\n\nIntención\nQue el misterio haga pasar ante nuestra mirada el espectáculo inenarrable de tantos seres atribulados: huérfanos, ancianos, enfermos, minusválidos, prisioneros, desterrados. Pidamos para todos ellos la fuerza, el consuelo capaz de dar esperanza. Repitamos con ternura, y, ¿por qué no?, con alguna lágrima escondida: Salve, cruz, única posible esperanza.</string>
+    <string name="meditacionDoloroso5">Llegados al lugar llamado "La Calavera", le crucificaron allí a él y a los dos malhechores, uno a la derecha y otro a la izquierda. Jesús decía: "Padre, perdónales, porque no saben lo que hacen"… Era ya eso de mediodía cuando, al eclipsarse el sol, hubo oscuridad sobre toda la tierra hasta la media tarde. El velo del Santuario se rasgó por medio y Jesús, dando un fuerte grito dijo: "Padre, en tus manos pongo mi espíritu" y, dicho esto, expiró» (Lc  23, 33–46).\n\nReflexión\nVida y muerte representan los dos puntos preciosos y orientadores del sacrificio de Cristo: desde la sonrisa de Belén que quiere abrirse a todos los hijos de los hombres en su primera aparición en la tierra, hasta el suspiro final que recoge todos los dolores para santificarnos, todos los pecados para borrarlos. Y María está junto a la cruz, como estaba junto al Niño de Belén.\nRecemos a esta piadosa Madre a fin de que Ella misma ruegue por nosotros ahora y en la hora de nuestra muerte.\nAquí está iluminado también el gran misterio de los pecadores obstinados, de los incrédulos, de aquellos que no recibieron ni recibirán la luz del Evangelio, que no sabrán darse cuenta de la sangre vertida por ellos también, por el Hijo de Dios.\n\nIntención\nPensando en esto de la oración se sumerge en un deseo magnánimo, en una vehemencia reparadora, en un horizonte mundial de apostolado. Y se pide, con gran fervor, que la preciosísima Sangre derramada por todos los hombres, dé al fin, y les dé a todos ellos, conversión y salvación. Que la sangre de Cristo sea para todos arras y prenda de vida eterna.</string>
+
+    <string name="smeditados">Misterios Meditados</string>
+    <string name="smeditadosDetalle">Cada misterio mostrará la meditación de los mismos</string>
+    <string name="sNotificaciones">Notificaciones diarias</string>
+    <string name="sNotificacionesDetalle">Recibe una notificación diaria recordando rezo del rosario</string>
+    <string name="sVelocidad">Velocidad de lectura</string>
+    <string name="sOtras">Otras apps</string>
+    <string name="sOtrasDetalle">Otras aplicaciones del mismo desarrollador</string>
+    <string name="sVersion">Versión</string>
+</resources>

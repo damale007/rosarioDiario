@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AppsActivity">
+
+    <TextView
+        android:id="@+id/titulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/titulo_otras_apps"
+        android:textSize="30sp"
+        android:layout_margin="20dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <ImageView
+        android:id="@+id/logo_amor"
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/amor"
+        app:layout_constraintTop_toBottomOf="@id/titulo"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/logo_diario"/>
+
+    <TextView
+        android:id="@+id/titulo_amor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Frase de amor diaria"
+        android:textSize="20sp"
+        android:padding="10dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/logo_diario"
+        app:layout_constraintTop_toBottomOf="@id/logo_amor"/>
+
+    <ImageView
+        android:id="@+id/logo_diario"
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/logo_diario"
+        app:layout_constraintTop_toBottomOf="@id/titulo"
+        app:layout_constraintStart_toEndOf="@id/logo_amor"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <TextView
+        android:id="@+id/titulo_diario"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Simple diario"
+        android:textSize="20sp"
+        android:padding="10dp"
+        app:layout_constraintStart_toEndOf="@id/logo_amor"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/logo_amor"/>
+
+    <ImageView
+        android:id="@+id/logo_rosario"
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/logo"
+        app:layout_constraintTop_toBottomOf="@id/titulo_diario"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/logoIMC"/>
+
+    <TextView
+        android:id="@+id/titulo_rosario"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Chiste diario"
+        android:textSize="20sp"
+        android:padding="10dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/logoIMC"
+        app:layout_constraintTop_toBottomOf="@id/logo_rosario"/>
+
+    <ImageView
+        android:id="@+id/logoIMC"
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/logoimc"
+        app:layout_constraintTop_toBottomOf="@id/titulo_diario"
+        app:layout_constraintStart_toEndOf="@id/logo_rosario"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <TextView
+        android:id="@+id/tituloIMC"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="IMC peso ideal"
+        android:textSize="20sp"
+        android:padding="10dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/logo_rosario"
+        app:layout_constraintTop_toBottomOf="@id/logo_rosario"/>
+
+    <ImageView
+        android:id="@+id/logo_colors"
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/colors"
+        app:layout_constraintTop_toBottomOf="@id/titulo_rosario"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/logo_pepe_jones"/>
+
+    <TextView
+        android:id="@+id/titulo_colors"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Colors"
+        android:textSize="20sp"
+        android:padding="10dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/logo_pepe_jones"
+        app:layout_constraintTop_toBottomOf="@id/logo_colors"/>
+
+    <ImageView
+        android:id="@+id/logo_pepe_jones"
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:src="@drawable/pepe_jones"
+        app:layout_constraintTop_toTopOf="@id/logo_colors"
+        app:layout_constraintStart_toEndOf="@id/logo_colors"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <TextView
+        android:id="@+id/titulo_pepe_jones"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Pepe Jones"
+        android:textSize="20sp"
+        android:lines="2"
+        android:padding="10dp"
+        android:gravity="center"
+        app:layout_constraintStart_toEndOf="@id/logo_colors"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/logo_pepe_jones"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

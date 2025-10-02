@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "586449348012",
+    "project_id": "rosariodiario-e7688",
+    "storage_bucket": "rosariodiario-e7688.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586449348012:android:e6dd07250dbd8b1c1cc609",
+        "android_client_info": {
+          "package_name": "com.conadasoft.rosariodiario"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcanOVsFcF1SRNm4Jj8JJvFzb9S7mdeMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
